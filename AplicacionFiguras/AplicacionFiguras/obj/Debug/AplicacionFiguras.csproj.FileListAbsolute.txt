@@ -1,0 +1,9 @@
+C:\Users\LuiZz\Desktop\AplicacionFiguras\AplicacionFiguras\bin\Debug\AplicacionFiguras.exe.config
+C:\Users\LuiZz\Desktop\AplicacionFiguras\AplicacionFiguras\obj\Debug\AplicacionFiguras.csprojResolveAssemblyReference.cache
+C:\Users\LuiZz\Desktop\AplicacionFiguras\AplicacionFiguras\obj\Debug\AplicacionFiguras.Form1.resources
+C:\Users\LuiZz\Desktop\AplicacionFiguras\AplicacionFiguras\obj\Debug\AplicacionFiguras.Properties.Resources.resources
+C:\Users\LuiZz\Desktop\AplicacionFiguras\AplicacionFiguras\obj\Debug\AplicacionFiguras.csproj.GenerateResource.Cache
+C:\Users\LuiZz\Desktop\AplicacionFiguras\AplicacionFiguras\bin\Debug\AplicacionFiguras.exe
+C:\Users\LuiZz\Desktop\AplicacionFiguras\AplicacionFiguras\bin\Debug\AplicacionFiguras.pdb
+C:\Users\LuiZz\Desktop\AplicacionFiguras\AplicacionFiguras\obj\Debug\AplicacionFiguras.exe
+C:\Users\LuiZz\Desktop\AplicacionFiguras\AplicacionFiguras\obj\Debug\AplicacionFiguras.pdb
